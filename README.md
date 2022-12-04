@@ -3,7 +3,7 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=bdfsaraiva&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </h3>
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=bdfsaraiva&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bruno's GitHub stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bdfsaraiva&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bruno's GitHub stats">
 
 *   🔭  I’m currently doing my Ph.D.
 *   🌍  I'm based in Lisbon, Portugal.
