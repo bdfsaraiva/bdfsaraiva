@@ -3,13 +3,13 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=bdfsaraiva&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=bdfsaraiva&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bruno's GitHub stats">
 
 *   🔭  I’m currently doing my Ph.D.
 *   🌍  I'm based in Lisbon, Portugal.
 *   ✉️  You can contact me at [my mail](mailto:bruno.saraiva@ulusofona.pt)
 
-
+<hr> 
 ## Languages and Tools 🖥️
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/bdfsaraiva)
@@ -25,8 +25,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdsaraiva/)
 
 
-<hr>
-<a href="http://www.github.com/bdfsaraiva"><img src="https://github-readme-stats.vercel.app/api?username=bdfsaraiva&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bruno's GitHub stats" /></a>
+<!-- <hr>
+<a href="http://www.github.com/bdfsaraiva"><img src="https://github-readme-stats.vercel.app/api?username=bdfsaraiva&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="Bruno's GitHub stats" /></a> -->
 <!--
 **bdfsaraiva/bdfsaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
