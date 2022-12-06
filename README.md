@@ -13,14 +13,15 @@
 
 ## Languages and Tools 🖥️
 
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/bdfsaraiva)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/bdfsaraiva)
-[![Kotlin](https://img.shields.io/badge/Kotlin-d75413?style=for-the-badge&logo=kotlin&logoColor=purple)](https://github.com/bdfsaraiva)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/downloads/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-d75413?style=for-the-badge&logo=kotlin&logoColor=purple)](https://kotlinlang.org/)
 
 
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/bdfsaraiva)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/bdfsaraiva)
-[![Spacy](https://img.shields.io/badge/Spacy-0175C2?style=for-the-badge&logo=spacy&logoColor=white)](https://github.com/bdfsaraiva)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Spacy](https://img.shields.io/badge/Spacy-0175C2?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
+[![NLTK](https://img.shields.io/badge/nltk-306998?style=for-the-badge&logo=python&logoColor=yellow)](https://www.nltk.org/)
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdsaraiva/)
